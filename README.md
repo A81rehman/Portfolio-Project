@@ -16,7 +16,10 @@ Portfolio Project is...
 🛠 Built With 
 CSS 
 HTML
-My project is made by two languages one is css and other is html. I have used these languaes for styling and writing content on the portfolio. 
+My project is made by two languages one is css and other is html. I have used these languaes for styling and writing content on the portfolio.
+I have used grid and flexbox property in the work section and flexbox property in the header and headline section.
+About myself section is made by using the flexbox property.
+There are many other css which i have used in making it.
 
 Key Features 
 It has a well written text.
