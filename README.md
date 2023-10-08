@@ -1,6 +1,7 @@
 📗 Table of Contents
 📖 About the Project
 🛠 Built With
+👤 Author
 💻 Getting Started
 🔭 Future Features
 ⭐️ Show your support
@@ -20,11 +21,19 @@ My project is made by two languages one is css and other is html. I have used th
 I have used grid and flexbox property in the work section and flexbox property in the header and headline section.
 About myself section is made by using the flexbox property.
 There are many other css which i have used in making it.
+CSS file is taken form the figma document provided below in the link:
+
+https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1&mode=dev
 
 Key Features 
 It has a well written text.
 It has a good styling structure.
 It also has a good format.
+
+👤 Author
+This project is made by the cntribution of two peoples:
+github.com/A81rehman
+github.com/niazi-78600
 
 💻 Getting Started 
 New Developer can use my projects for making their own portfolio or they can make changes to this project which I hope will help them.
